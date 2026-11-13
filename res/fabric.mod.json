@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "bbs_invisible",
+  "version": "1.1.0",
+  "name": "BBS_Invisible",
+  "description": "BBS（BBS FS）附属模组：在 BBS 设置里新增「透明背景」，去掉天空/云/雾，截图输出带 alpha 的 PNG，录像输出带透明通道的视频（ProRes 4444 / PNG 序列 / WebM）。",
+  "icon": "assets/bbs_invisible/icon.png",
+  "license": "LGPL-3.0-or-later",
+  "authors": ["遇见"],
+  "environment": "client",
+  "entrypoints": {
+    "bbs-addon": ["bbs.invisible.BbsInvisibleAddon"],
+    "bbs-client-addon": ["bbs.invisible.BbsInvisibleClientAddon"]
+  },
+  "mixins": [
+    {
+      "config": "bbs_invisible.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "bbs": "*"
+  }
+}

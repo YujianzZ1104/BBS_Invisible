@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "bbs.invisible.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BBSRenderingMixin",
+    "BackgroundRendererMixin",
+    "EntityRenderDispatcherMixin",
+    "GameRendererMixin",
+    "ModelBlockEntityRendererMixin",
+    "ParticleManagerMixin",
+    "BlockEntityRenderDispatcherMixin",
+    "UIFilmPanelMixin",
+    "UIFilmPreviewMenuMixin",
+    "UICurveClipMixin",
+    "UIKeyframeSheetTitleMixin",
+    "VideoRecorderMixin",
+    "WorldRendererFadeMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
