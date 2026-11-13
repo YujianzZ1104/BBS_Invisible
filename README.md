@@ -1,6 +1,6 @@
 # BBS_Invisible
 
-**BBSFS 附属模组:透明背景**
+**BBSFS 扩展插件:透明背景**
 **Transparent background addon for BBSFS**
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62B47A)
@@ -14,7 +14,7 @@
 
 ## 中文
 
-BBS_Invisible 是 BBSFS 的客户端附属模组,在 BBSFS 设置里新增「透明背景」功能,方便把角色、场景单独抠出来做后期合成。
+BBS_Invisible 是 BBSFS 的客户端扩展插件,在 BBSFS 设置里新增「透明背景」功能,方便把角色、场景单独抠出来做后期合成。
 
 ### 功能
 
