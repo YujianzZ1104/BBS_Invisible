@@ -16,8 +16,6 @@
 
 BBS_Invisible 是 BBSFS 的扩展插件,让你在 BBSFS 里直接录制和截图带透明背景的画面,方便做后期合成。
 
-它不是独立系统,而是接入 BBSFS 自己的设置面板、曲线剪辑和影片编辑器,用法和 BBSFS 原有功能一致。
-
 - **去掉背景元素**:可以把天空、云层、雾、地形、实体、粒子和 BBS 模型方块从画面里拿掉,只留下你要的画面。
 - **可以关键帧编辑**:以上每一项都有对应曲线,拖动时间线就能让它们逐渐变淡或出现。
 - **适用环境**:Minecraft 1.20.1、Fabric、BBSFS 2.7,仅客户端需要安装。
@@ -211,8 +209,6 @@ Copyright (C) 2026 遇见
 ## English
 
 BBS_Invisible is an addon for BBSFS that lets you record video and take screenshots with a transparent background directly inside BBSFS, making compositing in post-production easy.
-
-It is not a standalone system. It plugs into BBSFS's own settings panel, curve clips and film editor, and works the same way as the built-in features.
 
 - **Remove background elements**: take the sky, clouds, fog, terrain, entities, particles and BBS model blocks out of the frame, leaving only what you want.
 - **Keyframe-editable**: every item above has its own curve, so you can fade them in or out gradually along the timeline.
