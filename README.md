@@ -6,7 +6,7 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62B47A)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-DBD0B4)
 ![Side](https://img.shields.io/badge/Side-Client-blue)
-![License](https://img.shields.io/badge/License-LGPL--3.0--or--later-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 [中文](#中文) · [English](#english)
 
@@ -200,7 +200,7 @@ Mixin 使用 intermediary 名称,未使用 refmap。
 
 ### 许可证
 
-LGPL-3.0-or-later,详见 [LICENSE](LICENSE),并附 [COPYING](COPYING)(GPL-3.0 全文)。
+MIT,详见 [LICENSE](LICENSE)。
 
 Copyright (C) 2026 遇见
 
@@ -394,6 +394,6 @@ Mixins use intermediary names; no refmap is used.
 
 ### License
 
-LGPL-3.0-or-later. See [LICENSE](LICENSE), with [COPYING](COPYING) (full GPL-3.0 text) attached.
+MIT. See [LICENSE](LICENSE).
 
 Copyright (C) 2026 YujianzZ
